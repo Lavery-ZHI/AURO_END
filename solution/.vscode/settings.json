@@ -1,0 +1,34 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/auro/auro_ws/install/tf_transformations/lib/python3.10/site-packages",
+        "/home/auro/auro_ws/install/tf_relay/lib/python3.10/site-packages",
+        "/home/auro/auro_ws/install/solution/lib/python3.10/site-packages",
+        "/home/auro/auro_ws/install/assessment/lib/python3.10/site-packages",
+        "/home/auro/auro_ws/install/auro_interfaces/local/lib/python3.10/dist-packages",
+        "/home/auro/auro_ws/install/assessment_interfaces/local/lib/python3.10/dist-packages",
+        "/home/auro/turtlebot3_ws/build/turtlebot3_teleop",
+        "/home/auro/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/auro/turtlebot3_ws/build/turtlebot3_example",
+        "/home/auro/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/auro/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages",
+        "/home/auro/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/auro/auro_ws/install/tf_transformations/lib/python3.10/site-packages",
+        "/home/auro/auro_ws/install/tf_relay/lib/python3.10/site-packages",
+        "/home/auro/auro_ws/install/solution/lib/python3.10/site-packages",
+        "/home/auro/auro_ws/install/assessment/lib/python3.10/site-packages",
+        "/home/auro/auro_ws/install/auro_interfaces/local/lib/python3.10/dist-packages",
+        "/home/auro/auro_ws/install/assessment_interfaces/local/lib/python3.10/dist-packages",
+        "/home/auro/turtlebot3_ws/build/turtlebot3_teleop",
+        "/home/auro/turtlebot3_ws/install/turtlebot3_teleop/lib/python3.10/site-packages",
+        "/home/auro/turtlebot3_ws/build/turtlebot3_example",
+        "/home/auro/turtlebot3_ws/install/turtlebot3_example/lib/python3.10/site-packages",
+        "/home/auro/turtlebot3_ws/install/turtlebot3_msgs/local/lib/python3.10/dist-packages",
+        "/home/auro/turtlebot3_ws/install/dynamixel_sdk_custom_interfaces/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
