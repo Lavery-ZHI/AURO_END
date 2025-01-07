@@ -223,9 +223,9 @@ def main(args=None):
     try:
         executor.spin()
     except KeyboardInterrupt:
-        node.get_logger().info("收到键盘中断信号，正在关闭节点...")
+        node.get_logger().info("Received a keyboard interrupt signal and is closing the node...")
     except ExternalShutdownException:
-        node.get_logger().error("收到外部关闭信号")
+        node.get_logger().error("External shutdown signal received")
         sys.exit(1)
     finally:
         node.destroy_node()
